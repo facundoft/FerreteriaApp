@@ -1,4 +1,4 @@
-eCommerce de Ferretería
+Ecommerce de Ferretería
 Aplicación construida con Flutter y Dart, utilizando Supabase como base de datos para el almacenamiento y recuperación de datos.
 
 Características
